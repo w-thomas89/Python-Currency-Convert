@@ -1,0 +1,55 @@
+2022-05-04 06:08:00+00:00
+US Dollar,1.0
+Euro,0.951395
+British Pound,0.801833
+Indian Rupee,76.549128
+Australian Dollar,1.406653
+Canadian Dollar,1.283393
+Singapore Dollar,1.38366
+Swiss Franc,0.979422
+Malaysian Ringgit,4.353547
+Japanese Yen,130.172247
+Chinese Yuan Renminbi,6.609899
+Argentine Peso,115.885423
+Bahraini Dinar,0.376
+Botswana Pula,12.13174
+Brazilian Real,4.959847
+Bruneian Dollar,1.38366
+Bulgarian Lev,1.860767
+Chilean Peso,855.512086
+Colombian Peso,4026.609301
+Croatian Kuna,7.19031
+Czech Koruna,23.453555
+Danish Krone,7.079032
+Hong Kong Dollar,7.848792
+Hungarian Forint,362.166138
+Icelandic Krona,131.125244
+Indonesian Rupiah,14464.667195
+Iranian Rial,42418.212823
+Israeli Shekel,3.354336
+Kazakhstani Tenge,435.907335
+South Korean Won,1264.645731
+Kuwaiti Dinar,0.306805
+Libyan Dinar,4.78085
+Mauritian Rupee,43.181263
+Mexican Peso,20.293339
+Nepalese Rupee,122.536017
+New Zealand Dollar,1.555418
+Norwegian Krone,9.407879
+Omani Rial,0.3845
+Pakistani Rupee,185.696562
+Philippine Peso,52.481836
+Polish Zloty,4.469171
+Qatari Riyal,3.64
+Romanian New Leu,4.706744
+Russian Ruble,68.705157
+Saudi Arabian Riyal,3.75
+South African Rand,15.76437
+Sri Lankan Rupee,352.502858
+Swedish Krona,9.889673
+Taiwan New Dollar,29.5438
+Thai Baht,34.355367
+Trinidadian Dollar,6.777476
+Turkish Lira,14.828668
+Emirati Dirham,3.6725
+Venezuelan Bolivar,450905.746534
